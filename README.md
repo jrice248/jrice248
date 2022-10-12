@@ -1,9 +1,11 @@
 - 👋 Hi, I’m Jaime!
 - 👀 I’m interested in math, web development, and data analysis
 - 🌱 I’m currently building my skills in C# and javascript
-<!--- - 💞️ I’m looking to collaborate on ... --->
 - 📫 How to reach me: jaime.rice248@gmail.com
-- :smile: Pronouns: He/They 
+- :smile: Pronouns: He/They
+<!--- 
+- 💞️ I’m looking to collaborate on ... 
+--->
 
 <!---
 jrice248/jrice248 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
