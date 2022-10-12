@@ -5,6 +5,7 @@
 - 💞️ I’m looking to collaborate on ...
 --->
 - 📫 How to reach me: jaime.rice248@gmail.com
+- :smile: Pronouns: He/They 
 
 <!---
 jrice248/jrice248 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
